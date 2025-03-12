@@ -2,3 +2,5 @@
 
 #Ignore mnist Dataset
 *[Mm]nist_dataset/
+*.gif
+*.mp4
