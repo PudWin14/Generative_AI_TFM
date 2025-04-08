@@ -4,3 +4,10 @@
 *[Mm]nist_dataset/
 *.gif
 *.mp4
+
+# Ignore weights
+*.pt
+*.pth
+
+# Ignore editor files
+.vscode
