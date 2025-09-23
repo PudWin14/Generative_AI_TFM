@@ -8,6 +8,8 @@
 # Ignore weights
 *.pt
 *.pth
+*.csv
+
 
 # Ignore editor files
 .vscode
